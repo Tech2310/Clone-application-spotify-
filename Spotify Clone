@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Clone</title>
+    <img  src="Spotify1.png" alt="";
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: #ffffff;
+        }
+
+        header {
+            background-color: #040404;
+            padding: 10px;
+            text-align: center;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #040404;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Spotify Clone</h1>
+    </header>
+
+    <main>
+        <h2>Featured Playlists</h2>
+        <Placeholder for featured playlists -->
+
+        <h2>Top Tracks</h2>
+        < Placeholder for top tracks -->
+
+        <h2>Recommended Artists</h2>
+        <Placeholder for recommended artists -->
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Spotify Clone</p>
+    </footer>
+
+</body>
+</html>
